@@ -1,4 +1,4 @@
-# Hazard Disposal Robot Car 🚗🤖
+# Wireless IoT-Controlled Robotic Car 🚗🤖
 
 A wireless Arduino-based robot car with a mounted robotic arm, designed to safely handle and transport hazardous objects.  
 Built as part of the TEJ4M Computer Engineering summative project.
