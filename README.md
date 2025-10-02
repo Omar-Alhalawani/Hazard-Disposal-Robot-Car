@@ -42,7 +42,7 @@ Click below to see the robot car in action:
 ---
 
 ## 📖 Documentation
-- [Full Project Report (PDF)](docs/Robot_Report.pdf)  
+- [Full Project Report (PDF)](docs/Robot Report.pdf)  
 
 ---
 
