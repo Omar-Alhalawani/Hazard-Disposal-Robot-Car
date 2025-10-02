@@ -42,7 +42,7 @@ Click below to see the robot car in action:
 ---
 
 ## 📖 Documentation
-- [Full Project Report (PDF)](docs/TEJ4M_Report.pdf)  
+- [Full Project Report (PDF)](docs/Robot_Report.pdf)  
 
 ---
 
